@@ -45,9 +45,9 @@
 
 </br>
 
-```Python
-def mindit():
-    print("What You Seek is Seeking You!!!!")
+```Javascript
+var quote = "Making mistakes doesn't mean you are dumb, it means that you are progressing forward.";
+console.log(quote);
 ```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>

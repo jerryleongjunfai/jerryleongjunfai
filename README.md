@@ -37,13 +37,17 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
 
-<br>
 
 ### Github Trophies:-
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/SamarpanCoder2002/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/jerryleongjunfai/github-profile-trophy)
 
 </br>
+
+### 💘 Github Activity Graph:-
+
+[![Jerry Leong's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamarpanCoder2002&theme=react-dark)](https://github.com/SamarpanCoder2002/github-readme-activity-graph)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryleongjunfai&show_icons=true" alt="jerryleong" /></p>

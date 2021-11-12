@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Java, Kotlin, Javascript**
 
-- ⚡ Fun fact **I love to cats and chickens.**
+- ⚡ Fun fact **I love playing Minecraft ⛏.**
 
 ### Connect with me:
 

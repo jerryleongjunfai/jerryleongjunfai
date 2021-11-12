@@ -45,7 +45,7 @@
 
 </br>
 
-### 💘 Github Activity Graph:-
+### Github Activity Graph:-
 
 [![Jerry Leong's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerryleongjunfai2002&theme=react-dark)](https://github.com/jerryleongjunfai/github-readme-activity-graph)
 

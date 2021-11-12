@@ -45,9 +45,10 @@
 
 </br>
 
-### Github Activity Graph:-
-
-[![Jerry Leong's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerryleongjunfai2002&theme=react-dark)](https://github.com/jerryleongjunfai/github-readme-activity-graph)
+```Python
+def mindit():
+    print("What You Seek is Seeking You!!!!")
+```
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryleongjunfai&show_icons=true" alt="jerryleong" /></p>

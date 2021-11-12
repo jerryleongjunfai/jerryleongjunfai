@@ -39,4 +39,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
 
+### Github Trophies:-
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/SamarpanCoder2002/github-profile-trophy)
+
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryleongjunfai&show_icons=true" alt="jerryleong" /></p>

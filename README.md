@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Flutter, Java, Kotlin, Javascript**
 
-- ⚡ Fun fact: **I love playing Minecraft ⛏.**
+- ⚡ Fun fact:  **I love playing Minecraft ⛏.**
+
+- ☑️ Goals:  **Learn React JS and iOS Development.**
 
 ### Connect with me:
 

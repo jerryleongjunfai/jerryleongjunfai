@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerry Leong</h1>
-<h3 align="center">A self-taught programmer 😜</h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JerryLeong13?label=JerryLeong13&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/jerryleongjunfai?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on  [Jerry's Tech Corner](https://www.youtube.com/c/JerrysTechCorner/featured)

@@ -37,13 +37,5 @@ console.log(quote);
 
 
 
-### Github Trophies:-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jerryleongjunfai&theme=gruvbox)](https://github.com/jerryleongjunfai/github-profile-trophy)
-
-</br>
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryleongjunfai&show_icons=true" alt="jerryleong" /></p>

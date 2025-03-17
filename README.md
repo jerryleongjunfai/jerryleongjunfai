@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jerry Leong</h1>
 
+```Javascript
+var quote = "I can neither confirm nor deny the existance of the problem that you sought";
+console.log(quote);
+```
+
 ![GitHub followers](https://img.shields.io/github/followers/jerryleongjunfai?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on  [Jerry's Tech Corner](https://www.youtube.com/c/JerrysTechCorner/featured)
@@ -34,14 +39,11 @@
 
 ### Github Trophies:-
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamarpanCoder2002&theme=gruvbox)](https://github.com/jerryleongjunfai/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jerryleongjunfai&theme=gruvbox)](https://github.com/jerryleongjunfai/github-profile-trophy)
 
 </br>
 
-```Javascript
-var quote = "Making mistakes doesn't mean you are dumb, it means that you are progressing forward.";
-console.log(quote);
-```
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryleongjunfai&layout=compact&hide=html" alt="jerryleong" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryleongjunfai&show_icons=true" alt="jerryleong" /></p>

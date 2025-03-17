@@ -6,16 +6,9 @@
 
 - 🔭 I’m currently working on  [Jerry's Tech Corner](https://www.youtube.com/c/JerrysTechCorner/featured)
 
-- 🌱 I’m currently learning **Flutter, Java, Kotlin, Javascript**
-
-- ⚡ Fun fact:  **I love playing Minecraft ⛏.**
+- 🌱 I’m currently learning **Flutter, Java, Kotlin, Javascript, Swift, Python**
 
 - ☑️ Goals:  **Learn React JS and iOS Development.**
-
-### Connect with me:
-
-<a href="https://twitter.com/JerryLeong13" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jerryleong" height="22" width="22" /></a>
-<a href="https://www.youtube.com/c/JerrysTechCorner/featured" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Jerry Tech Corner" height="22" width="22" /></a>
 
 
 <br />

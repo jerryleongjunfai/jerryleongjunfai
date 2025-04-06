@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jerry Leong</h1>
 
-```Javascript
-var quote = "I can neither confirm nor deny the existance of the problem that you sought";
-console.log(quote);
-```
-
 ![GitHub followers](https://img.shields.io/github/followers/jerryleongjunfai?logo=GitHub&style=for-the-badge)
 
 - 🔭 I’m currently working on  [Jerry's Tech Corner](https://www.youtube.com/c/JerrysTechCorner/featured)

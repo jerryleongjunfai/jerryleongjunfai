@@ -2,11 +2,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/jerryleongjunfai?logo=GitHub&style=for-the-badge)
 
-- 🔭 I’m currently working on  [Jerry's Tech Corner](https://www.youtube.com/c/JerrysTechCorner/featured)
+- 🔭 I’m currently working on  [Chimp Memory](https://github.com/jerryleongjunfai/chimp-memory/tree/main)
 
-- 🌱 I’m currently learning **Flutter, Java, Kotlin, Javascript, Swift, Python**
+- 🌱 I’m currently learning **Python, Networking, Cybersecurity, Database management, Swift, SwiftUI**
+  
+- 🏫 I'm currently enrolled at **AUSMAT**
 
-- ☑️ Goals:  **Learn React JS and iOS Development.**
+- ☑️ Goals:  **Learn Artificial Intelligence**
 
 
 <br />

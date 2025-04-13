@@ -5,10 +5,6 @@
 - 🔭 I’m currently working on  [Chimp Memory](https://github.com/jerryleongjunfai/chimp-memory/tree/main)
 
 - 🌱 I’m currently learning **Python, Networking, Cybersecurity, Database management, Swift, SwiftUI**
-  
-- 🏫 I'm currently enrolled at **AUSMAT**
-
-- ☑️ Goals:  **Learn Artificial Intelligence**
 
 
 <br />
